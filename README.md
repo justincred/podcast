@@ -120,6 +120,22 @@ npm install
 npm run dev
 ```
 
+## 📚 Documentation
+
+This project includes comprehensive documentation for developers:
+
+- **[README.md](README.md)** - This file: Project overview, quick start, features
+- **[QUICKSTART.md](QUICKSTART.md)** - Get running in 5 minutes
+- **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical deep dive and design decisions
+- **[API_REFERENCE.md](API_REFERENCE.md)** - Complete REST API documentation
+- **[backend/README.md](backend/README.md)** - Backend development guide
+- **[frontend/README.md](frontend/README.md)** - Frontend development guide
+- **[SUMMARY.md](SUMMARY.md)** - Implementation summary and next steps
+
+### Interactive API Docs
+
+Visit http://localhost:8000/docs for interactive Swagger UI documentation.
+
 ## 📚 API Documentation
 
 ### Authentication
