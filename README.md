@@ -122,14 +122,16 @@ npm run dev
 
 ## 📚 Documentation
 
+**📖 [DOCS_INDEX.md](DOCS_INDEX.md) - Complete documentation index and navigation guide**
+
 This project includes comprehensive documentation for developers:
 
 - **[README.md](README.md)** - This file: Project overview, quick start, features
 - **[QUICKSTART.md](QUICKSTART.md)** - Get running in 5 minutes
 - **[ARCHITECTURE.md](ARCHITECTURE.md)** - Technical deep dive and design decisions
 - **[API_REFERENCE.md](API_REFERENCE.md)** - Complete REST API documentation
-- **[backend/README.md](backend/README.md)** - Backend development guide
-- **[frontend/README.md](frontend/README.md)** - Frontend development guide
+- **[backend/README.md](backend/README.md)** - Backend development guide (FastAPI, Celery, database)
+- **[frontend/README.md](frontend/README.md)** - Frontend development guide (Next.js, React, TypeScript)
 - **[SUMMARY.md](SUMMARY.md)** - Implementation summary and next steps
 
 ### Interactive API Docs
