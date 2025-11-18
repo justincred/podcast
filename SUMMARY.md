@@ -296,10 +296,20 @@ Full strategy in main README.md.
 
 ## 📚 Documentation
 
-- **README.md**: Complete project overview, setup, API docs, monetization
-- **QUICKSTART.md**: 5-minute setup guide for getting started fast
-- **ARCHITECTURE.md**: Technical deep dive, design decisions, scaling strategy
-- **API Documentation**: http://localhost:8000/docs (interactive Swagger UI)
+### Complete Developer Guides
+
+- **[README.md](README.md)**: Complete project overview, setup, API docs, monetization
+- **[QUICKSTART.md](QUICKSTART.md)**: 5-minute setup guide for getting started fast
+- **[ARCHITECTURE.md](ARCHITECTURE.md)**: Technical deep dive, design decisions, scaling strategy
+- **[API_REFERENCE.md](API_REFERENCE.md)**: Complete REST API documentation with examples
+- **[backend/README.md](backend/README.md)**: Backend development guide (FastAPI, Celery, database)
+- **[frontend/README.md](frontend/README.md)**: Frontend development guide (Next.js, React, TypeScript)
+- **[SUMMARY.md](SUMMARY.md)**: This file - Implementation summary and next steps
+
+### Interactive Documentation
+
+- **Swagger UI**: http://localhost:8000/docs (interactive API testing)
+- **ReDoc**: http://localhost:8000/redoc (alternative API docs)
 
 ## 🎓 Learning Resources
 
